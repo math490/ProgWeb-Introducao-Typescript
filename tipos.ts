@@ -4,7 +4,7 @@ let nuum: number = 1; //! muda durante o codigo
 const num2: number = 2; //! não muda durante a rodagem do codigo
 
 //tipos primitivos
-let texto: string = "hello wolrd";
+let texto: string = "Hello, World!";
 let numero: number = 17;
 let ativo: boolean = true;
 
@@ -15,7 +15,7 @@ let palavras: Array<string> = ["Beringela", "Abobora"]
 
 
 //Tupla
-let pessoa: [string,number] = ["Joao" , 15]
+let pessoa: [string,number] = ["Matheus" , 17]
 
 
 //Enum 
