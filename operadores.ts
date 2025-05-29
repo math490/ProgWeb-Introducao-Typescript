@@ -3,7 +3,7 @@
 let A: number = 10;
 let B: number = 5;
 
-//Aritméticos
+//Aritméticos 
 
 console.log("soma = ", A + B);
 console.log("subtração = ", A - B);

@@ -18,7 +18,7 @@ let palavras: Array<string> = ["Beringela", "Abobora"]
 let pessoa: [string,number] = ["Joao" , 15]
 
 
-//Enum
+//Enum 
 enum Cores{
         verde,
         azul,
