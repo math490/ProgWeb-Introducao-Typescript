@@ -58,4 +58,4 @@ type Usuario = {
     idade: number;
 
 }
-let usuario1: Usuario = {nome: "João", idade : 15}
+let usuario1: Usuario = {nome: "Matheus", idade : 17}
